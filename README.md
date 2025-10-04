@@ -6,12 +6,6 @@
 
 ---
 
-## 🧠 Sobre mí
-
-Soy un apasionado de la ciencia de datos con interés en construir soluciones basadas en evidencia. Me especializo en análisis exploratorio, visualización de datos, y desarrollo de modelos predictivos. Me gusta mantener mis proyectos organizados, documentados y presentados con claridad.
-
----
-
 ## 📁 Proyectos incluidos
 
 - **Análisis Exploratorio de Datos (EDA) Iris**  
