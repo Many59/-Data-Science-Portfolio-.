@@ -26,7 +26,7 @@
 
 ¿Te interesa colaborar o conocer más sobre mi trabajo?
 
-- 📧 **Correo:** manuel.moreno@example.com  
+- 📧 **Correo:** moreno.gdev@gmail.comm  
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/manuel-moreno-7475a4370/]
 
 ---
