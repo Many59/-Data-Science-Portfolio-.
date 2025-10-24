@@ -9,6 +9,7 @@
 ## 📁 Proyectos incluidos
 
 - **Análisis Exploratorio de Datos (EDA) Iris**
+  
 Análisis exploratorio completo del dataset iris, contiene medidas de sépalos y pétalos de tres especies de flores: Setosa, Versicolor y Virginica. 
 
 Distribución de especies:
@@ -27,6 +28,7 @@ Correlaciones:
 Se genera un heatmap personalizado que revela alta correlación entre petal_length y petal_width..
 
 - **Análisis de Series Temporales**
+  
 Análisis exploratorio
 Media móvil de 7 días para suavizar fluctuaciones.
 Resampleo diario para entender el comportamiento por fecha.
