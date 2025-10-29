@@ -119,6 +119,30 @@ Gráficos de dispersión:
 Recency vs Monetary
 Frequency vs Monetary
 
+- **Red neuronal convolucional (CNN)**
+
+clasificar imágenes de ropa usando el dataset Fashion-MNIST. 
+
+Carga y preprocesamiento
+Lectura de datos desde archivos CSV.
+Normalización de píxeles y remodelado a formato (28, 28, 1).
+Conversión de etiquetas y creación de tf.data.Dataset para entrenamiento eficiente.
+
+Arquitectura del modelo
+CNN con dos capas convolucionales + max pooling.
+Capa densa con Dropout para evitar overfitting.
+Activación softmax para clasificación multiclase.
+
+Entrenamiento
+Optimización con Adam y pérdida sparse_categorical_crossentropy.
+Validación con EarlyStopping para evitar sobreentrenamiento.
+Entrenamiento por 5 épocas con evaluación final.
+
+Evaluación y visualización
+Gráficos de precisión y pérdida por época.
+Predicciones de ejemplo con imágenes, etiquetas reales y probabilidades.
+Matriz de confusión y reporte por clase (precision, recall, F1-score).
+
 ---
 
 ## 🛠️ Tecnologías utilizadas
